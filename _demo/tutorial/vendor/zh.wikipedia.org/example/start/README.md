@@ -1,4 +1,11 @@
 
+
+## Link
+
+* https://zh.wikipedia.org/zh-tw/SDL
+* https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
+
+
 ## Prepare
 
 ``` sh
