@@ -63,7 +63,7 @@ show
 run
 
 ``` sh
-sdl2-config --cflags --libs
+$ sdl2-config --cflags --libs
 ```
 
 show
